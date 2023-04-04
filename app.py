@@ -28,7 +28,7 @@ HP_THRESH=30
 LENGTH_AIM=2
 AREA_AIM=20
 len_you=0
-def info():A='pixel';print('INFO');return{'apiversion':'1','author':'','color':'#3399FF','head':A,'tail':A}
+def info():A='pixel';print('INFO');return{'apiversion':'1','author':'','color':'#686de0','head':A,'tail':A}
 def start(game_state):print('GAME START')
 def end(game_state):print('GAME OVER\n')
 def move(game_state):
